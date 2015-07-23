@@ -1,2 +1,2 @@
 # projectDocuments
-sample project docs 
+sample project requirement docs 
